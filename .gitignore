@@ -19,3 +19,5 @@ old
 .cabal-sandbox/
 cabal.sandbox.config
 codex.tags
+.direnv
+.pre-commit-config.yaml
